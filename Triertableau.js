@@ -80,7 +80,7 @@ let minbis = tablo[0];
  */
 let x = 0;
 
-
+sdfdf
 
 // Boucle de parcours du tableau
 for (let i = 0; i < tablo.length; j++) {
